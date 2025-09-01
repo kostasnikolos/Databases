@@ -1,4 +1,4 @@
- **Course & Semester:** <Databases, Semester X>
+ **Course & Semester:** <Databases, Semester 4>
 
 ## Overview
 A mini relational database project: schema, sample data, and queries plus an ER diagram.
